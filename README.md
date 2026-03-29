@@ -11,8 +11,9 @@ source .venv/bin/activate # Activate on Linux/macOS .venv\Scripts\activate # Act
 AML3303/
 ├── README.md
 ├── assignments/
-│   └── ConnectWave_Customer_Churn_Prediction_C0958076.ipynb
-│   └── ConnectWave_Screenshot_slackIntegration.png
+├── ├──assignment1/
+├── ├──assignment2/ --separate repo
+├── ├──assignment3/
 ├── exercise_notebooks/
 │   ├── 01_statistical_analysis.ipynb
 │   ├── 02_HOG_visualization.ipynb

@@ -7,3 +7,6 @@ venv/
 # MLflow
 mlartifacts/
 ml*
+
+# assignment2 has a separate repository, so we ignore it here
+assignment2/
